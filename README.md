@@ -1,7 +1,11 @@
 # readme.me
 # presentacion 
 
-![Earth] (https://www.sciencealert.com/the-earth-is-moving-substantially-less-because-of-the-global-pandemic)
+
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/nicolás-lópez-ibarra-luque-6b3a9997"
 
 hay diferentes formas para comentar un repositorio:
 
