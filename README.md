@@ -20,8 +20,9 @@ para cambiar el tamaño de un encabezado se usa de "1~6 #"
 para añadir citas y añadirle un simbolo de copyright:
 ">" antes de la cita
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit
-"&copy" 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit &copy.
+"&copy;" 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit 
+&copy;
 
 
 [YouTube] (https://www.youtube.com “Youtube”)
