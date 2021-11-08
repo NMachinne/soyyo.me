@@ -1,7 +1,7 @@
 # readme.me
 # presentacion 
 
-! [Earth] (https://www.sciencealert.com/the-earth-is-moving-substantially-less-because-of-the-global-pandemic)
+![Earth] (https://www.sciencealert.com/the-earth-is-moving-substantially-less-because-of-the-global-pandemic)
 
 hay diferentes formas para comentar un repositorio:
 
@@ -30,4 +30,4 @@ el simbolo de copyright "&copy" (importante ponerle un ";" al final)
 Lorem ipsum &copy;
 
 
-[YouTube] (https://www.youtube.com “Youtube”)
+[YouTube](https://www.youtube.com “Youtube”)
