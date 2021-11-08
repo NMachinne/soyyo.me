@@ -23,8 +23,7 @@ para añadir citas y añadirle un simbolo de copyright:
 
 el simbolo de copyright "&copy" (importante ponerle un ";" al final)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit 
-&copy;
+Lorem ipsum &copy;
 
 
 [YouTube] (https://www.youtube.com “Youtube”)
