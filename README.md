@@ -14,8 +14,8 @@ hay diferentes formas para comentar un repositorio:
 -para escribir un texto tachado(~):  ~~Lorem ipsum dolor sit amet, consectetur adipiscing elit~~
 
 para cambiar el tamaño de un encabezado se usa de "1~6 #" 
- # Lorem ipsum dolor sit amet
- ### Lorem ipsum dolor sit amet
+(# Lorem ipsum dolor sit amet
+(### Lorem ipsum dolor sit amet
 
 para añadir citas y añadirle un simbolo de copyright:
 ">" antes de la cita
