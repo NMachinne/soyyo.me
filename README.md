@@ -4,9 +4,13 @@
 ! [Earth] (https://www.sciencealert.com/the-earth-is-moving-substantially-less-because-of-the-global-pandemic)
 
 hay diferentes formas para comentar un repositorio:
+
 -para escribir un texto simple: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 -para escribir un texto Italic:  _Lorem ipsum dolor sit amet, consectetur adipiscing elit_
+
 -para escribir un texto negrita:  **Lorem ipsum dolor sit amet, consectetur adipiscing elit**
+
 -para escribir un texto tachado:  ~~Lorem ipsum dolor sit amet, consectetur adipiscing elit~~
 
 para cambiar el tamaño de un encabezado se usa de "1~6 #" 
