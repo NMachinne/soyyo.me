@@ -22,6 +22,7 @@ para añadir citas y añadirle un simbolo de copyright:
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 "&copy" (importante ponerle un ";" al final)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit 
 &copy;
 
